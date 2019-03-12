@@ -1,0 +1,17 @@
+
+.main {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.my-photo {
+    height: 210px;
+    width: 410px;
+}
+
+.nice-border {
+    border-left: 3px solid #442333; 
+    padding-left: 7px;
+}
